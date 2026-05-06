@@ -1,3 +1,5 @@
+name: Pipeline Security Scan
+
 jobs:
   zizmor:
     name: Run zizmor 🌈
