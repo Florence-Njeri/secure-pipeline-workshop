@@ -1,5 +1,8 @@
 name: Pipeline Security Scan
 
+on:
+  workflow_call:
+
 jobs:
   zizmor:
     name: Run zizmor 🌈
